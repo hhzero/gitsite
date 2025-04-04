@@ -3,7 +3,7 @@ site:
   description: zhang zr
   keywords: gitsite, git, static web site, html
   theme: default
-  language: en-US
+  language: en-ZH
   # set the /<rootPath> pathname under which your site is served
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
   # root-path: /gitsite
@@ -17,13 +17,13 @@ site:
     - title: License
       uri: /pages/license/index.html
     - title: Discuss
-      uri: https://github.com/michaelliao/gitsite/discussions
+      uri: https://github.com/hhzero/gitsite/discussions
       external: true
   git:
-    base-url: https://github.com/michaelliao/gitsite/blob/main/source
+    base-url: https://github.com/hhzero/gitsite/blob/main/source
   contact:
-    name: Michael Liao
-    github: https://github.com/michaelliao/gitsite
+    name: zhangzr
+    github: https://github.com/hhzero/gitsite
     twitter: https://twitter.com/zhzero
   books:
     index-marker: true
