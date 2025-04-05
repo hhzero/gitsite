@@ -1,0 +1,3 @@
+     [submodule "themes/default"]
+       path = themes/default
+       url = https://github.com/hhzero/gitsite/gitsite-theme-default.git
