@@ -14,12 +14,12 @@ site:
       # uri: /books/gitsite-guide/index.html
     - title: AI编程
       uri: /books/ai-program/index.html
-    - title: Blogs
+    - title: 博客
       uri: /blogs/tech/index.html
-    - title: License
-      uri: /pages/license/index.html
-    - title: Discuss
-      uri: https://github.com/hhzero/gitsite/discussions
+    # - title: License
+    #   uri: /pages/license/index.html
+    # - title: Discuss
+    #   uri: https://github.com/hhzero/gitsite/discussions
       external: true
   git:
     base-url: https://github.com/hhzero/gitsite/blob/main/source
