@@ -10,8 +10,10 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: User Guide
-      uri: /books/gitsite-guide/index.html
+    # - title: User Guide
+      # uri: /books/gitsite-guide/index.html
+    - title: AI编程
+      uri: /books/ai-program/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
